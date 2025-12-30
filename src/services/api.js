@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:8080/api"
+  baseURL: "https://springboot-backend-xq6l.onrender.com"
 });
 
 export const fetchProducts = () => API.get("/products");
