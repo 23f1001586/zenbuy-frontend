@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zenbuy-frontend/static/css/main.16f1288c.css",
-    "main.js": "/zenbuy-frontend/static/js/main.91557999.js",
+    "main.js": "/zenbuy-frontend/static/js/main.13593c6d.js",
     "static/js/453.1f90f737.chunk.js": "/zenbuy-frontend/static/js/453.1f90f737.chunk.js",
     "index.html": "/zenbuy-frontend/index.html",
     "main.16f1288c.css.map": "/zenbuy-frontend/static/css/main.16f1288c.css.map",
-    "main.91557999.js.map": "/zenbuy-frontend/static/js/main.91557999.js.map",
+    "main.13593c6d.js.map": "/zenbuy-frontend/static/js/main.13593c6d.js.map",
     "453.1f90f737.chunk.js.map": "/zenbuy-frontend/static/js/453.1f90f737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16f1288c.css",
-    "static/js/main.91557999.js"
+    "static/js/main.13593c6d.js"
   ]
 }
